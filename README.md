@@ -5,7 +5,7 @@
         <tr>
             <th>Name</th>
             <th>Description</th>
-            <th>Grade</th>
+            <th>Grade (General)</th>
         </tr>
         <tr>
             <th>Sprint00</th>
