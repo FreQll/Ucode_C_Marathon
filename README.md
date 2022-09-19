@@ -1,4 +1,4 @@
-# Ucode_![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)_Marathon
+#![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)_Marathon
 
 <body>
     <table width="100%" border="0" cellpadding="3" align="left">  
