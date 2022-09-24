@@ -60,12 +60,12 @@
         <tr>
             <th>Sprint10</th>
             <th>File I/O. Standard input and output.</th>
-            <th></th>
+            <th>55</th>
         </tr>
         <tr>
             <th>Sprint11</th>
             <th>Linked list.</th>
-            <th></th>
+            <th>62</th>
         </tr>
         <tr>
             <th>Race00</th>
@@ -75,12 +75,12 @@
         <tr>
             <th>Race01</th>
             <th>Decode encrypted math expression.</th>
-            <th></th>
+            <th>101</th>
         </tr>
         <tr>
             <th>Race02</th>
             <th>Find the shortest path in the maze between the entry and exit points.</th>
-            <th></th>
+            <th>89</th>
         </tr>
         <tr>
             <th>Race03</th>
