@@ -100,7 +100,7 @@
         <tr>
             <th>Checkpoint02</th>
             <th>Challenge yourself without internet, peers, notes, books or any other third-party help.</th>
-            <th></th>
+            <th>108</th>
         </tr>
     </table>
 </body>
