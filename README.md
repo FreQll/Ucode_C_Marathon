@@ -85,7 +85,7 @@
         <tr>
             <th>Race03</th>
             <th>Simulate the Matrix screensaver.</th>
-            <th></th>
+            <th>100</th>
         </tr>
         <tr>
             <th>Checkpoint00</th>
